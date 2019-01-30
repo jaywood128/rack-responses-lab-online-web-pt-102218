@@ -6,9 +6,9 @@ class Application
     time = Time.new
     if time.hour < 12
 
-    else 
+    else
 
     end
-      
+
   end
 end
